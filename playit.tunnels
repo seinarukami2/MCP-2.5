@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "movies-closure.gl.joinmc.link",
@@ -51,7 +51,7 @@
       "tunnel_type": "minecraft-java"
     },
     {
-      "active": false,
+      "active": true,
       "alloc": {
         "data": {
           "assigned_domain": "searches-specifies.gl.at.ply.gg",
