@@ -1,340 +1,220 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718349231272 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718349432598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349234384 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349435713 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349237506 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349438837 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349240626 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349441956 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349243739 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349445109 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349246926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349448212 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349250059 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349451324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349253177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349454455 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349256294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349457580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349259409 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349460698 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349262519 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349463802 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349265631 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349466908 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349268885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349470027 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349271991 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349473136 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349275122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349476295 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349278229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349479473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349281354 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349482603 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349284464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349485858 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349287579 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349488975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349290700 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349492103 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349293824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349495214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349296935 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349498348 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349300071 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349501464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349303223 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349504602 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349306341 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349507714 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349309467 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349510855 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349312598 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349513965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349315778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349517081 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349318954 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349520190 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349322069 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349523302 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349325174 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349526408 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349328278 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349529522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349331392 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349532644 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349334511 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349535765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349337621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349538883 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349340794 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349542001 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349343905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349347010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349350125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349353245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349356359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349359479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349362766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349365943 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349369085 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349372199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349375318 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349378434 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349381547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349384817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349387948 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349391079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349394193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349397306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349400434 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349403547 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-including-norm.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-requirements-jefferson.gl.at.ply.gg:2037 => 127.0.0.1:2037 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718349406680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718349545171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
