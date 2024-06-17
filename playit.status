@@ -1,578 +1,4421 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718511922346 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1718607915672 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511925460 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607918777 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511928562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607921876 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511931696 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607924977 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511934798 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607928092 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511937898 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607931239 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511941018 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607934353 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511944117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607937451 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511947211 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607940556 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511950358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607943664 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511953485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607946759 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511956597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607949892 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511959720 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607952981 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511962824 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607956094 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511965918 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607959230 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511969045 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607962334 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511972187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607965448 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511975303 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607968556 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511978431 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607971677 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511981539 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607974777 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511984654 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607977875 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511987752 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607980978 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511990849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607984092 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511993974 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607987211 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718511997107 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607990330 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512000224 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607993447 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512003337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607996564 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512006429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718607999696 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512009527 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608002811 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512012627 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608005912 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512015734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608009024 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512018838 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608012126 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512021945 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608015223 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512025042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608018337 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512028277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608021457 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512031394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608024583 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512034512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608027673 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512037607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608030791 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512040713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608033999 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512043810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608037132 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512046910 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608040247 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512050048 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608043363 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512053176 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608046478 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512056274 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608049593 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512059376 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608052716 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512062477 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608055811 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512065596 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608058920 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512068706 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608062030 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512071832 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608065382 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512074934 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608068524 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512078036 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608071646 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512081171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608074759 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512084286 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608077880 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512087413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608080996 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512090531 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608084098 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512093642 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608087241 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512096773 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608090363 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512099893 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608093474 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512103026 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608096594 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512106122 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608099754 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512109217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608102868 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512112307 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608105986 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512115408 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608109094 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512118504 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608112203 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512121613 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608115327 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512124721 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608118441 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512127855 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608121560 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512130966 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608124665 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512134086 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608127766 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512137206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608130885 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512140325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608133998 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512143465 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608137104 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512146585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608140193 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512149703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608143295 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512152827 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608146393 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512155939 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608149511 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512159047 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608152626 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512162163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608155741 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512165287 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608158854 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512168394 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608161950 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512171485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608165051 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512174597 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608168159 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
 options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1718512177718 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1718608171264 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608174395 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608177503 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608180628 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608183744 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608186841 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608189946 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608193083 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608196193 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608199325 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608202447 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608205559 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608208668 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608211778 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608214895 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608217992 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608221099 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608224224 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608227345 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608230444 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608233553 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608236684 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608239806 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608242920 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608246042 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608249144 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608252239 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608255342 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608258438 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608261597 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608264715 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608267831 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608270945 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608274059 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608277153 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608280255 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608283389 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608286513 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608289711 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608292811 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608295922 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608299037 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608302150 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608305264 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608308545 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608311662 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608314780 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608317898 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608321011 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608324123 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608327249 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608330407 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608333549 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608336666 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608339775 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608342886 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608345988 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608349097 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608352200 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608355352 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608358469 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608361572 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608364665 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608367780 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608370900 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608374011 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608377253 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608380363 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608383493 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608386600 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608389712 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608392822 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608395931 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608399140 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608402260 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608405385 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608408479 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608411576 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608414667 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608417784 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608420891 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608424028 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608427153 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608430264 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608433375 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608436500 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608439619 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608442734 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608445878 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608449002 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608452111 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608455210 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608458327 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608461426 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608464529 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608467655 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608470761 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608473891 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608477029 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608480151 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608483266 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608486388 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608489498 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608492593 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608495742 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608498840 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608501947 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608505088 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608508192 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608511311 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608514449 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608517555 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608520658 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608523755 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608526846 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608529963 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608533079 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608536174 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608539293 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608542407 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608545525 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608548627 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608551760 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608554862 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608557966 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608561076 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608564228 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608567334 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608570430 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608573532 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608576657 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608579778 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608582888 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608585986 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608589111 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608592222 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608595336 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608598471 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608601583 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608604689 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608607806 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608610904 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608614004 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608617105 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608620212 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608623312 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608626444 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608629605 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608632724 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608635840 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608638959 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608642083 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608645204 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608648318 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608651460 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608654610 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608657723 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608660835 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608663955 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608667073 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608670199 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608673327 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608676439 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608679551 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608682654 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608685765 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608688866 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608691966 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608695057 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608698208 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608701340 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608704434 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608707554 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608710672 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608713765 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608716864 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608719983 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608723097 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608726199 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608729294 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608732408 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608735521 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608738636 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608741772 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608744893 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608748029 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608751149 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608754264 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608757383 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608760496 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608763616 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608766727 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608769865 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608772965 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608776082 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608779179 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608782276 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608785379 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608788482 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608791575 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608794701 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608797866 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608800993 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608804088 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608807180 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608810276 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608813479 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608816644 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608819779 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608822897 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608826018 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608829130 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608832249 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608835350 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608838466 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608841611 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608844734 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608847850 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608850969 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608854066 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608857192 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608860305 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608863436 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608866561 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608869685 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608872783 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608875898 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608879025 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608882141 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608885258 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608888357 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608891459 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608894578 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608897690 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608900802 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608903922 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608907034 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608910160 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608913324 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608916589 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608919704 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608922801 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608925903 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608929016 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608932138 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608935282 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608938440 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608941557 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608944670 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608947772 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608950870 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608953981 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608957123 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608960227 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608963325 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608966432 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608969544 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608972663 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608975782 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608978902 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608982151 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608985303 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608988511 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608991609 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608994714 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718608997812 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609000930 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609004083 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609007177 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609010278 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609013529 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609016637 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609019738 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609022852 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609025958 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609029145 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609032245 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609035369 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609038483 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609041594 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609044709 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609047855 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609050976 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609054104 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609057204 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609060343 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609063475 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609066575 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609069694 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609072821 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609075941 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609079045 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609082194 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609085310 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609088425 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609091548 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609094750 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609097881 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609101003 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609104117 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609107225 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609110343 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609113456 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609116564 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609119674 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609122827 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609125962 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609129099 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609132204 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609135309 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609138413 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609141548 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609144671 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609147767 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609150868 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609153977 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609157082 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609160196 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609163317 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609166455 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609169570 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609172685 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609175806 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609178927 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609182052 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609185171 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609188306 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609191421 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609194535 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609197646 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609200762 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609203893 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609207153 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609210274 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609213387 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609216487 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609219592 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609222716 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609225810 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609228913 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609232024 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609235137 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609238249 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609241360 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609244474 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609247582 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609250727 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609253858 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609256983 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609260092 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609263198 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609266301 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609269418 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609272520 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609275631 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609278760 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609281895 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609285010 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609288121 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609291233 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609294336 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609297445 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609300549 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609303670 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609306769 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609310003 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609313126 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609316242 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609319351 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609322471 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609325606 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609328728 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609331983 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609335104 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609338215 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609341326 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609344424 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609347532 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609350656 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609353811 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609356923 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609360032 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609363128 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609366230 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609369505 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609372606 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609375780 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609378879 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609381991 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609385106 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609388234 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609391346 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609394465 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609397591 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609400704 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609403827 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609407010 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609410148 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609413261 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609416388 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609419487 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609422593 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609425711 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609428823 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609431924 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609435027 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609438166 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609441293 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609444417 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609447663 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609450780 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609453891 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609457013 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609460153 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609463424 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609466547 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609469655 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609472771 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609476008 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609479114 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609482232 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609485358 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609488481 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609491599 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609494697 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609497798 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609500899 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609504001 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609507114 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609510215 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609513333 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609516442 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609519551 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609522674 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609525787 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609528942 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609532074 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609535214 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609538311 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609541408 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609544510 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609547620 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609550716 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609553823 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609556955 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609560060 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609563162 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609566266 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609569374 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609572484 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609575603 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609578727 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609581906 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609585023 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609588121 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609591239 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609594347 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609597480 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609600600 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609603733 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609606839 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609609937 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609613052 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609616166 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609619282 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609622396 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609625500 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609628602 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609631714 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609634827 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609637943 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609641054 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609644178 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609647326 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609650466 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609653583 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609656690 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609659811 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609662927 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609666069 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609669170 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609672338 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609675450 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609678566 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609681666 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609684768 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609687861 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609690977 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609694094 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609697207 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609700303 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609703398 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609706519 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609709619 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609712789 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609715932 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609719036 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609722149 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609725271 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609728383 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609731490 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609734595 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609737745 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609740972 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609744084 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609747196 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609750306 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609753412 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609756543 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609759637 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609762764 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609765925 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609769038 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609772145 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609775240 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609778339 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609781443 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609784548 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609787657 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609790760 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609793861 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609796977 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609800118 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609803236 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609806342 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609809479 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609812592 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609815709 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609818824 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609821941 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609825062 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609828163 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609831267 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609834366 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609837470 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609840585 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609843705 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609846808 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609849908 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609853023 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609856141 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609859252 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609862357 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609865489 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609868605 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609871715 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609874840 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609877959 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609881075 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+options-reasonable.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+cart-announced.gl.at.ply.gg:2173 => 127.0.0.1:2173 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1718609884180 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
